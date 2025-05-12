@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMENU9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
